@@ -180,6 +180,7 @@ spring:
  </td>
 </tr>
 </table>
+
 ## 6. Creating an Angular client to display bills
 <h4><a href="https://github.com/Hanif-Ayoub/Angular_Client">link to angular client repository</a></h4>
           <p align="center">
