@@ -5,8 +5,9 @@
 * Gateway service using Spring Cloud Gateway
 * Registry Service directory based on Netflix Eureka Server
 * Billing-Service using Open Feign to communicate with the Customer-service and Inventory-service microservices
+* Creating an Angular client to display bills
 
-## **1. Customer-service microservice **
+## 1. Customer-service microservice 
 <table>
 <tr>
         <td width="100%">
@@ -179,3 +180,9 @@ spring:
  </td>
 </tr>
 </table>
+## **6. Creating an Angular client to display bills**
+<h4><a href="https://github.com/Hanif-Ayoub/Angular_Client">link to angular client repository</a></h4>
+          <p align="center">
+             <img src="Captures/13.png" alt="project example"/>
+            </p>
+
